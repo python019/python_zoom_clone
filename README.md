@@ -6,6 +6,6 @@
 
 -pip install pipwin
 
--pip install pyaudio
+-pipwin install pyaudio
 
 -pip install vidstream
